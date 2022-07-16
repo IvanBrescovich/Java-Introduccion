@@ -3,7 +3,7 @@
 y después toda en minúsculas. 
 Nota: investigar la función toUpperCase() y toLowerCase() en Java.
  */
-package JavaInicio;
+package JavaIntro;
 
 import java.util.Scanner;
 

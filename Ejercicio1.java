@@ -3,7 +3,7 @@
 calcule la suma de los dos. El programa deberá después mostrar 
 el resultado de la suma.
  */
-package JavaInicio;
+package JavaIntro;
 
 import java.util.Scanner;
 
